@@ -1,7 +1,7 @@
 # React Typescript by sample
 
-The goal of this project is to provide a set of simple samples, providing and step by step guide to
-start working with React and Typescript.
+The goal of this project is to provide a set of simple samples, providing a step by step guide to
+start working with React and TypeScript.
 
 We have incorporated a set of examples based on hooks.
 
@@ -11,10 +11,10 @@ Right now you got two main folders:
   React, or you are going to start working on a new project, I recommend you going through these
   examples.
 
-- [Old_class_components_samples](./old_class_components_samples): The old samples, just in case you need to work with older react
+- [Old_class_components_samples](./old_class_components_samples): The old samples, just in case you need to work with older React
   versions or you need to maintain legacy code.
 
-If you want to make a deeper dive on React Hooks you can check this repo [React Hooks By Example](https://github.com/Lemoncode/react-hooks-by-example)
+If you want to make a deeper dive into React Hooks, you can check this repo [React Hooks By Example](https://github.com/Lemoncode/react-hooks-by-example)
 
 Other guided repos available (react / redux + typescript):
 
